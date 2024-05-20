@@ -1,0 +1,17 @@
+@import './variabels.scss';
+@import './fonts.scss';
+@import './media-query.scss';
+
+body{
+    font-family: $font;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+ul, li {
+    list-style: none;
+}
+
